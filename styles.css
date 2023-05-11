@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #663300;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+body {
+    background-color: #fff3bd;
+    color: #333333;
+  }
+  
+.header-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.coffee-image {
+    max-width: 50px;
+    height: auto;
+    margin-left: 20px;
+}
+
+nav {
+    background-color: #996633;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #663300;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
